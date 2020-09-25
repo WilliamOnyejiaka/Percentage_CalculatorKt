@@ -1,1 +1,1 @@
-A simple percentage calculator
+A simple percentage calculator.
